@@ -18,7 +18,7 @@ This simple fact is apparently of no particular interest to most package
 managers.
 
 This fact suggests a relatively simple goal for a tool to install one or more
-implementation of Ruby: *Put the focking thing where the user requested it,
+implementations of Ruby: *Put the focking thing where the user requested it,
 and don't do anything else.*
 
 Or, in algorithmic pseudo code:
