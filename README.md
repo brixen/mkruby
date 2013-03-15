@@ -1,4 +1,37 @@
-# What The Fock, World?
+# mkruby
+
+This is a tool to build a Ruby implementation.
+
+
+## Installation
+
+Coming soon.
+
+Install mkruby with your favorite package manager or install from source.
+
+
+## Make a Ruby
+
+Every implementation of Ruby has a build system. Every. Single. One.
+
+This simple fact is apparently of no particular interest to most package
+managers.
+
+This fact suggests a relatively simple goal for a tool to install one or more
+implementation of Ruby: *Put the focking thing where the user requested it,
+and don't do anything else.*
+
+Or, in algorithmic pseudo code:
+
+* Put
+* the focking thing
+* where the user requested it
+* Period
+
+Why is this so hard?
+
+
+## What The Fock, World?
 
 There's the joke about the two hard problems in Computer Science. Naming
 things, cache invalidation, and off-by-one errors are undeniably hard
@@ -69,27 +102,6 @@ never assume when the user requests that we install Ruby that they actually
 wanted us to install a new package manager for them. Seriously, what the fock?
 Or that we somehow know better than the software authors how to focking build
 the focking software.
-
-
-## Make a Ruby
-
-This is a tool to build a Ruby implementation.
-
-Every implementation of Ruby has a build system. Every. Single. One.
-
-This simple fact is apparently of no particular interest to most package
-managers.
-
-This fact suggests a relatively simple goal for a tool to install one or more
-implementation of Ruby: *Put the focking thing where the user requested it,
-and don't do anything else.*
-
-Or, in algorithmic pseudo code:
-
-* Put
-* the focking thing
-* where the user requested it
-* Period
 
 
 ## Credits
